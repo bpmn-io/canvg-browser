@@ -1,6 +1,6 @@
 # canvg-browser
 
-[![Build Status](https://travis-ci.org/bpmn-io/canvg-browser.svg?branch=master)](https://travis-ci.org/bpmn-io/canvg-browser)
+[![Build Status](https://travis-ci.com/bpmn-io/canvg-browser.svg?branch=master)](https://travis-ci.com/bpmn-io/canvg-browser)
 
 A port of [canvg](https://github.com/gabelerner/canvg) that properly works in the browser as CommonJS module.
 
